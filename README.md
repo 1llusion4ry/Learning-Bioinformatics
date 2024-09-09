@@ -18,4 +18,4 @@
   
 ## 3. Thanks
 
-  感谢鲁志老师实验室的教程。[https://book.ncrnalab.org/teaching]
+  感谢鲁志老师实验室的教程: [Bioinformatics tutorial](https://book.ncrnalab.org/teaching)
